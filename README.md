@@ -1,10 +1,10 @@
 # tardi-behavior
 
-Code and data for making the figures and tables in **Kiser et al.** *(add full citation / DOI once published)*.
+Code and data for making the figures and tables in **Kiser et al.** *(DOI TBD)*.
 
 The study pairs field sampling of tardigrades from moss and lichen with 18S rRNA barcoding (to assign individuals to OTUs) and video tracking of locomotion. The notebooks here regenerate the sampling summaries, community comparisons, species-accumulation curve, and the between-OTU comparisons of body size, activity, speed and turning.
 
-> **Raw videos** are not in this repository. They are archived on Zenodo: *(add Zenodo DOI)*.
+> Raw video clips are not in this repository. They are archived on Zenodo: https://doi.org/10.5281/zenodo.24562925
 
 ---
 
@@ -100,8 +100,4 @@ Open either notebook from the repository root, since the file paths are relative
 
 If you use these data or code, please cite:
 
-> Kiser et al. *(year). Title. Journal. DOI.*
-
-## License
-
-*(add a license, e.g. CC BY 4.0 for data and MIT for code)*
+> Kiser et al. TBD
